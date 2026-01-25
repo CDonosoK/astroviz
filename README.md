@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=CDonosoK&project=astroviz&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 🚀 AstroViz 🚀
 
 <img src="https://github.com/hucebot/astroviz/blob/main/images/AstroViz.png" alt="AstroViz Image" width="800" height="500">
